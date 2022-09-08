@@ -1,5 +1,5 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
-
+[配置生成](https://hackyes.github.io/openwrt-menuconfig/index.html)
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
